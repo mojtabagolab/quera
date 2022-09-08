@@ -1,0 +1,1 @@
+[هگزا نوردی](https://quera.ir/problemset/127291/)
