@@ -63,3 +63,4 @@ showmeyourcode.ir
 |57|[گزارش کار](https://quera.org/problemset/49535/)|[python](گزارش%20کار/python), |[readme](گزارش%20کار/readme.md), [question's pdf](گزارش%20کار/مسابقه%20_%20گزارش%20کار.pdf), |
 |58|[یافتن عدد اول](https://quera.ir/problemset/593/)|[python](یافتن%20عدد%20اول/python), |[readme](یافتن%20عدد%20اول/readme.md), [question's pdf](یافتن%20عدد%20اول/دانشگاهی%20_%20یافتن%20عدد%20اول.pdf), |
 |59|[یخدارچی](https://quera.org/problemset/3429/)|[node.js](یخدارچی/node.js), [python](یخدارچی/python), |[readme](یخدارچی/README.md), [question's pdf](یخدارچی/مسابقه%20_%20یخدارچی.pdf), |
+|60|[سوال زرد](https://quera.org/problemset/3537/)|[python](سوال%20زرد/python), |[readme](سوال%20زرد/readme.md), [question's pdf](سوال%20زرد/مسابقه%20_%20سوال%20زرد.pdf), |
